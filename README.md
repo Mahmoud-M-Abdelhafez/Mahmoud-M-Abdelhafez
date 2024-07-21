@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Abdelhafez</h1>
 <h3 align="center">A .NET Developer From Egypt</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" width="500" height="400"/>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" width="400" height="300"/>
 
 - 🌱 I’m currently learning **.NET Web Development at ITI**
 
