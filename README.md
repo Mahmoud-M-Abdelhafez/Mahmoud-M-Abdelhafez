@@ -2,7 +2,7 @@
 <h3 align="center">A .NET Developer From Egypt</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" width="400" height="300"/>
 
-- 🌱 I’m currently learning **.NET Web Development at ITI**
+- 🌱 I’m currently learning **Full Stack .NET Web Development @ DEPI**
 
 
 <h3 align="left">Contact with me:</h3>
