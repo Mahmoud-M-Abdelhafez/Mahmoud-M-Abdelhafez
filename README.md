@@ -8,7 +8,7 @@
 <h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="mailto:mahmoud.m.abdelhafz@gmail.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="mahmoud-abdelhafez-8517aa223" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/mahmoud-abdelhafez-8517aa223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-abdelhafez-8517aa223" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahmoud-m-abdelhafez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-abdelhafez-8517aa223" height="30" width="40" /></a>
 <a href="https://fb.com/mahmoud.m.abdelhafz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.m.abdelhafz" height="30" width="40" /></a>
 <a href="https://wa.me/201090231928" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPADVMClbsK0sjUlU7iTXpQ7krJwQfTW_ezg&s" alt="Chat on WhatsApp" height="40" width="40" /></a>
 
